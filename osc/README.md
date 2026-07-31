@@ -1,1 +1,0 @@
-# OSC = Operating Systems + C/C++ projects
